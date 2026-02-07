@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "About"
+title                    : "Ivan Kobe"
 title_separator          : "-"
 name                     : &name "Ivan Kobe"
 description              : &description "Ivan Kobe does type theory and (higher) category theory"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -24,9 +24,9 @@ repository               : "ivankobe/ivankobe.github.io"
 author:
   # Biographic information
   avatar           : "fotka.jpg"
-  name             : "Ivan Kobe"
+  # name             : bla
   pronouns         : # example: "she/her"  
-  bio              : "Doing type theory and (higher) category theory"
+  # bio              : "Doing type theory and (higher) category theory"
   location         : "Ljubljana"
   employer         : "University of Ljubljana"
   uri              : # URL

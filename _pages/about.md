@@ -6,6 +6,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student at the Faculty of Mathematics and Physics at the University of Ljubljana.
+I am a Ph.D. student at the Faculty of Mathematics and Physics, University of Ljubljana.
 
 My research interests lie in dependent type theory, higher category theory, homotopy (type) theory, topos theory, and formalization.
