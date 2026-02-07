@@ -8,8 +8,8 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Ivan Kobe"
+site_theme               : "dirt" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+title                    : "About"
 title_separator          : "-"
 name                     : &name "Ivan Kobe"
 description              : &description "Ivan Kobe does type theory and (higher) category theory"   # Update this with a general description of your site, this is the default if not overridden by a page
