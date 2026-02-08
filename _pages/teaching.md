@@ -9,4 +9,4 @@ author_profile: true
 
 ## 2025/26
 
-* Introduction to Category Theory ‣ [course webpage](https://ucilnica.fmf.uni-lj.si/course/view.php?id=688) ‣ notes for exercise classes
+* Introduction to Category Theory ‣ [course webpage](https://ucilnica.fmf.uni-lj.si/course/view.php?id=688) ‣ [notes for exercise classes](https://github.com/ivankobe/2526-IPRM-CT-EX/tree/master)
