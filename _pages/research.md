@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-# Master's thesis
+## Master's thesis
 
 * Title: [A Type Theory for Synthetic categories](https://repozitorij.uni-lj.si/IzpisGradiva.php?id=171821&lang=eng)
 * Advisor: [Andrej Bauer](https://www.andrej.com/)
